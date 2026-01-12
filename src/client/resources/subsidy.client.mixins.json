@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "archives.tater.subsidy.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftMixin",
+    "MultiPlayerGameModeMixin",
+    "ScreensMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

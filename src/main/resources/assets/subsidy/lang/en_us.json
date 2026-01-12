@@ -1,0 +1,6 @@
+{
+  "commands.subsidy.enable": "Enabled creative inventory for %s",
+  "commands.subsidy.enable.self": "Enabled own creative inventory",
+  "commands.subsidy.disable": "Disabled creative inventory for %s",
+  "commands.subsidy.disable.self": "Disabled own creative inventory"
+}
