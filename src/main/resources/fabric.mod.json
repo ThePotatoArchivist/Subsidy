@@ -3,15 +3,15 @@
 	"id": "subsidy",
 	"version": "${version}",
 	"name": "Subsidy",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Creative inventory in survival mode",
 	"authors": [
-		"Me!"
+		"ThePotatoArchivist"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/subsidy",
+		"sources": "https://github.com/ThePotatoArchivist/Subsidy"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/subsidy/icon.png",
 	"environment": "*",
 	"entrypoints": {
