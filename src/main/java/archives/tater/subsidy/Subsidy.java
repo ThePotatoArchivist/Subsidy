@@ -48,7 +48,7 @@ public class Subsidy implements ModInitializer {
 		// Proceed with mild caution.
 
         CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> {
-            dispatcher.register(literal(MOD_ID)
+            dispatcher.register(literal("creative_inv")
                     .requires(source -> source.permissions().hasPermission(Permissions.COMMANDS_GAMEMASTER))
                     .then(literal("enable")
                             .executes(command -> {
